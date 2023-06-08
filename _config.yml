@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Lab 8
+description: In this lab we had further practice with fastify and node fetch. We installed node fetch package. Added fastify and node-fetch require statements and fetched JSON placeholder data
