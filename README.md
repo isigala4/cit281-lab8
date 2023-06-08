@@ -12,7 +12,8 @@ In the lab we completed the following parts:
 
 3: Add fastify starter code
 
-[lab-08.zip](https://github.com/isigala4/cit281-lab8/files/11684246/lab-08.zip)
+<img width="626" alt="Screenshot 2023-06-07 at 10 15 14 PM" src="https://github.com/isigala4/cit281-lab8/assets/133719793/cdde010a-87e5-4e19-b34f-88b25f786eff">
+
 
 4: Add fastify and node-fetch require statements
 
